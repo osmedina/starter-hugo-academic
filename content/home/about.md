@@ -1,21 +1,10 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: Bibliography
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+Hello! I am a Political Anthropologist. Currently, I am a Ph.D. candidate in the Anthropology Department at the University of Florida, specializing in governance and public policy. I consider myself an interdisciplinary researcher-practitioner with a background that includes socioeconomic development & environment, sustainable development, and agricultural sciences.
